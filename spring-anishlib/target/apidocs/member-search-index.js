@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"spring_anishlib","c":"SpringAnishlibApplication","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"spring_anishlib","c":"SpringAnishlibApplication","l":"SpringAnishlibApplication()","u":"%3Cinit%3E()"}];updateSearchResults();

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"spring_anishlib","l":"SpringAnishlibApplication"}];updateSearchResults();
